@@ -1,0 +1,191 @@
+<GDB>
+  <IntCrop_Par Code="MZ" Name="Maize" LACoef1="1.68e-6" LACoef2="1.5" LACoef3="0.003" LACoef4="0.0095" LACoef5="0.00000045" LACoef6="0.0055" LACoef7="0.00000065" LACoef8="0.085" LACoef9="0.07" LACoef10="0.046" LAChangeOver="470.0"/>
+  <Crop_Par Code="AL" Name="Alfalfa" RootC="26" RootN="1" RootP="0.4" RootSloC="14" RootIntC="66" RootSloN="10" VegC="40" VegN="1" VegP="0.4" VegSloC="15" VegIntC="60" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="AR" Name="Aroid" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="BA" Name="Barley" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="BN" Name="Dry bean" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="BW" Name="Broad leaf weed" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="CH" Name="Chickpea" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="CL" Name="Clover (copied from Alfalfa)" RootC="26" RootN="1" RootP="0.4" RootSloC="14" RootIntC="66" RootSloN="10" VegC="40" VegN="1" VegP="0.4" VegSloC="15" VegIntC="60" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="CO" Name="Cotton" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="CS" Name="Cassava" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="FA" Name="Fallow" RootC="0" RootN="0" RootP="0" RootSloC="0" RootIntC="0" RootSloN="0" VegC="0" VegN="0" VegP="0" VegSloC="0" VegIntC="0" VegSloN="0" KnDnFrac="0" />
+  <Crop_Par Code="GW" Name="Grass weed" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="MB" Name="Bromegrass, Meadow" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="ML" Name="Pearl millet" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="MZ" Name="Maize" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="OA" Name="Oats" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="PC" Name="Polish Canola" RootC="26" RootN="1" RootP="0.4" RootSloC="14" RootIntC="66" RootSloN="10" VegC="40" VegN="1" VegP="0.4" VegSloC="15" VegIntC="60" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="PL" Name="Poplar" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0" />
+  <Crop_Par Code="PN" Name="Peanut" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="PT" Name="Potato" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="RI" Name="Rice" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="RY" Name="Rye" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="SB" Name="Soybean" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="SC" Name="Sugar cane" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="SG" Name="Grain sorghum" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="ST" Name="Shrubs/Tree" RootC="" RootN="" RootP="" RootSloC="" RootIntC="" RootSloN="" VegC="" VegN="" VegP="" VegSloC="" VegIntC="" VegSloN="" KnDnFrac="" />
+  <Crop_Par Code="SW" Name="Switchgrass" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="SU" Name="Switchgrass Upland" RootC="40" RootN="0.5" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="0.4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.99" />
+  <Crop_Par Code="SL" Name="Switchgrass Lowland" RootC="40" RootN="0.5" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="0.4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.99" />
+  <Crop_Par Code="MG" Name="Miscanthus x giganteous" RootC="40" RootN="0.5" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="0.4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.99" />
+  <Crop_Par Code="PR" Name="Resotred prairie" RootC="40" RootN="0.5" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="0.4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.99" />
+  <Crop_Par Code="W1" Name="Wheat" RootC="40" RootN="1" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="1" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="WH" Name="Wheat" RootC="40" RootN="4" RootP="0.4" RootSloC="30" RootIntC="30" RootSloN="10" VegC="40" VegN="4" VegP="0.4" VegSloC="30" VegIntC="30" VegSloN="10" KnDnFrac="0.5" />
+  <Crop_Par Code="HV" Name="Hairy Vetch" RootC="26" RootN="1" RootP="0.4" RootSloC="14" RootIntC="66" RootSloN="10" VegC="40" VegN="1" VegP="0.4" VegSloC="15" VegIntC="60" VegSloN="10" KnDnFrac="0.5" />
+  <Fert_Par Code="FE001" Name="Ammonium nitrate" NO3Frac="0.5" NH4Frac="0.5" UreaFrac="0" FerDecRt="0.15" VolN="3" VolNRate="0.3" />
+  <Fert_Par Code="FE002" Name="Ammonium sulfate" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE003" Name="Ammonium-nitrate-sulfate" NO3Frac="0.5" NH4Frac="0.5" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE004" Name="Anhydrous ammonia" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE005" Name="Urea" NO3Frac="0" NH4Frac="0" UreaFrac="1" FerDecRt="0.2" VolN="" VolNRate="" />
+  <Fert_Par Code="FE006" Name="Diammonium phosphate" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE007" Name="Monoammonium phosphate" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE008" Name="Calcium nitrate" NO3Frac="1" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE009" Name="Aqua ammonia" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE010" Name="Urea ammonium nitrate solution" NO3Frac="0.25" NH4Frac="0.25" UreaFrac="0.5" FerDecRt="0.2" VolN="1.5" VolNRate="0.15" />
+  <Fert_Par Code="FE011" Name="Calcium ammonium nitrate solution" NO3Frac="0.5" NH4Frac="0.5" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE012" Name="Ammonium polyphosphate" NO3Frac="0" NH4Frac="1" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE013" Name="Single superphosphate" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE014" Name="Triple superphosphate" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="1" VolN="0" VolNRate="0" />
+  <Fert_Par Code="FE015" Name="Liquid phosphoric acid" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE016" Name="Potassium chloride" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE017" Name="Potassium nitrate" NO3Frac="1" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE018" Name="Potassium sulfate" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE019" Name="Urea super granules" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE020" Name="Dolomitic limestone" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE021" Name="Rock Phosphate" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE022" Name="Calciteic limestone" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE023" Name="" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE024" Name="Rhizobium" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE025" Name="" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE026" Name="Calcium hydroxide" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE027" Name="" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE028" Name="" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE029" Name="" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Fert_Par Code="FE030" Name="Atmospheric N deposition" NO3Frac="0.75" NH4Frac="0.25" UreaFrac="0" FerDecRt="0.15" VolN="0.5" VolNRate="0.1" />
+  <Fert_Par Code="NOCOD" Name="Unknown" NO3Frac="0" NH4Frac="0" UreaFrac="0" FerDecRt="" VolN="" VolNRate="" />
+  <Irr_Par Code="IR001" Name="Furrow" />
+  <Irr_Par Code="IR002" Name="Alternating furrows" />
+  <Irr_Par Code="IR003" Name="Flood" />
+  <Irr_Par Code="IR004" Name="Sprinkler" />
+  <Irr_Par Code="IR005" Name="Drip or trickle" />
+  <Irr_Par Code="IR006" Name="Flood depth" />
+  <Irr_Par Code="IR007" Name="Measured water table depth" />
+  <Irr_Par Code="IR008" Name="Percolation rate (/day)" />
+  <Irr_Par Code="IR009" Name="Bund height/ponding maximum" />
+  <Irr_Par Code="MSU10" Name="Drainage through pipes (/day)" />
+  <Irr_Par Code="MSU11" Name="Managed water table depth" />
+  <Irr_Par Code="MSU12" Name="Set controlled drainage parameters" />
+  <Irr_Par Code="NOCOD" Name="Unknown" />
+  <Residue_Par Code="RE000" Name="Unknown" ResC="40" ResN="1.3" ResP="0.1" ResK="" SlowC="10" IntermdC="62" HumifdC="10" SlowN="10" VolN="0" VolNRate="0" />
+  <Residue_Par Code="RE001" Name="Crop residue" ResC="43" ResN="0.5" ResP="0.1" ResK="1" SlowC="9.4" IntermdC="64" HumifdC="10" SlowN="10" VolN="20" VolNRate="0.2" />
+  <Residue_Par Code="RE002" Name="Green manure" ResC="40" ResN="1.3" ResP="0.1" ResK="" SlowC="10" IntermdC="62" HumifdC="10" SlowN="10" VolN="20" VolNRate="0.2" />
+  <Residue_Par Code="RE003" Name="Barnyard manure" ResC="40" ResN="1.3" ResP="0.1" ResK="" SlowC="10" IntermdC="62" HumifdC="10" SlowN="10" VolN="0.02" VolNRate="0.2" />
+  <Residue_Par Code="RE004" Name="Liquid manure" ResC="40" ResN="1.3" ResP="0.1" ResK="" SlowC="10" IntermdC="62" HumifdC="10" SlowN="10" VolN="0.02" VolNRate="0.2" />
+  <Till_Par Code="TI000" Name="Undefined Implement" KnDnFrac="1" MixFrac="0.96" DecomFac="1.96" BDFac="0.2" KsMcFac="2.09" PondFac="2" />
+  <Till_Par Code="TI002" Name="Tandem disk" KnDnFrac="1" MixFrac="0.46" DecomFac="1.46" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI003" Name="Offset disk" KnDnFrac="1" MixFrac="0.46" DecomFac="1.46" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI004" Name="Oneway disk" KnDnFrac="1" MixFrac="0.46" DecomFac="1.46" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI005" Name="Moldboard plow" KnDnFrac="1" MixFrac="0.96" DecomFac="1.96" BDFac="0.2" KsMcFac="2.09" PondFac="2" />
+  <Till_Par Code="TI006" Name="Chisel plow" KnDnFrac="1" MixFrac="0.47" DecomFac="1.47" BDFac="0.2" KsMcFac="2.06" PondFac="1" />
+  <Till_Par Code="TI007" Name="Disk plow" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI008" Name="Subsoiler" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI009" Name="Breeder/lister" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI010" Name="Field cultivator" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI011" Name="Row crop cultivator" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI012" Name="Harrow-springtooth" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI013" Name="Harrow-spike" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI014" Name="Rotary hoe" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI015" Name="Roto-tiller" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI016" Name="Row crop planter" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI017" Name="Drill" KnDnFrac="1" MixFrac="0.2" DecomFac="1.2" BDFac="0.2" KsMcFac="4.2" PondFac="0.5" />
+  <Till_Par Code="TI018" Name="Shredder" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI019" Name="Hoe" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI020" Name="Planting stick" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI021" Name="Animal-drawn implement" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI022" Name="Hand" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <Till_Par Code="TI023" Name="Manual hoeing" KnDnFrac="1" MixFrac="0.5" DecomFac="1.5" BDFac="0.2" KsMcFac="3" PondFac="1" />
+  <CO2_Trend_XY Yr="1959" CO2_Level="315.97" />
+  <CO2_Trend_XY Yr="1960" CO2_Level="316.91" />
+  <CO2_Trend_XY Yr="1961" CO2_Level="317.64" />
+  <CO2_Trend_XY Yr="1962" CO2_Level="318.45" />
+  <CO2_Trend_XY Yr="1963" CO2_Level="318.99" />
+  <CO2_Trend_XY Yr="1964" CO2_Level="319.62" />
+  <CO2_Trend_XY Yr="1965" CO2_Level="320.04" />
+  <CO2_Trend_XY Yr="1966" CO2_Level="321.38" />
+  <CO2_Trend_XY Yr="1967" CO2_Level="322.16" />
+  <CO2_Trend_XY Yr="1968" CO2_Level="323.04" />
+  <CO2_Trend_XY Yr="1969" CO2_Level="324.62" />
+  <CO2_Trend_XY Yr="1970" CO2_Level="325.68" />
+  <CO2_Trend_XY Yr="1971" CO2_Level="326.32" />
+  <CO2_Trend_XY Yr="1972" CO2_Level="327.45" />
+  <CO2_Trend_XY Yr="1973" CO2_Level="329.68" />
+  <CO2_Trend_XY Yr="1974" CO2_Level="330.18" />
+  <CO2_Trend_XY Yr="1975" CO2_Level="331.08" />
+  <CO2_Trend_XY Yr="1976" CO2_Level="332.05" />
+  <CO2_Trend_XY Yr="1977" CO2_Level="333.78" />
+  <CO2_Trend_XY Yr="1978" CO2_Level="335.41" />
+  <CO2_Trend_XY Yr="1979" CO2_Level="336.78" />
+  <CO2_Trend_XY Yr="1980" CO2_Level="338.68" />
+  <CO2_Trend_XY Yr="1981" CO2_Level="340.1" />
+  <CO2_Trend_XY Yr="1982" CO2_Level="341.44" />
+  <CO2_Trend_XY Yr="1983" CO2_Level="343.03" />
+  <CO2_Trend_XY Yr="1984" CO2_Level="344.58" />
+  <CO2_Trend_XY Yr="1985" CO2_Level="346.04" />
+  <CO2_Trend_XY Yr="1986" CO2_Level="347.39" />
+  <CO2_Trend_XY Yr="1987" CO2_Level="349.16" />
+  <CO2_Trend_XY Yr="1988" CO2_Level="351.56" />
+  <CO2_Trend_XY Yr="1989" CO2_Level="353.07" />
+  <CO2_Trend_XY Yr="1990" CO2_Level="354.35" />
+  <CO2_Trend_XY Yr="1991" CO2_Level="355.57" />
+  <CO2_Trend_XY Yr="1992" CO2_Level="356.38" />
+  <CO2_Trend_XY Yr="1993" CO2_Level="357.07" />
+  <CO2_Trend_XY Yr="1994" CO2_Level="358.82" />
+  <CO2_Trend_XY Yr="1995" CO2_Level="360.8" />
+  <CO2_Trend_XY Yr="1996" CO2_Level="362.59" />
+  <CO2_Trend_XY Yr="1997" CO2_Level="363.71" />
+  <CO2_Trend_XY Yr="1998" CO2_Level="366.65" />
+  <CO2_Trend_XY Yr="1999" CO2_Level="368.33" />
+  <CO2_Trend_XY Yr="2000" CO2_Level="369.52" />
+  <CO2_Trend_XY Yr="2001" CO2_Level="371.13" />
+  <CO2_Trend_XY Yr="2002" CO2_Level="373.22" />
+  <CO2_Trend_XY Yr="2003" CO2_Level="375.77" />
+  <CO2_Trend_XY Yr="2004" CO2_Level="377.49" />
+  <CO2_Trend_XY Yr="2005" CO2_Level="379.8" />
+  <CO2_Trend_XY Yr="2006" CO2_Level="381.9" />
+  <CO2_Trend_XY Yr="2007" CO2_Level="383.76" />
+  <CO2_Trend_XY Yr="2008" CO2_Level="385.59" />
+  <CO2_Trend_XY Yr="2009" CO2_Level="387.37" />
+  <CO2_Trend_XY Yr="2010" CO2_Level="389.85" />
+  <CO2_Trend_XY Yr="2011" CO2_Level="391.63" />
+  <CO2_Trend_XY Yr="2012" CO2_Level="393.82" />
+  <CO2_Trend_XY Yr="2013" CO2_Level="396.48" />
+  <CO2_Trend_XY Yr="2014" CO2_Level="398.61" />
+  <CO2_Trend_XY Yr="2015" CO2_Level="400.83" />
+  <CO2_Trend_XY Yr="2050" CO2_Level="450" />
+  <CO2_Trend_XY Yr="2100" CO2_Level="625" />
+  <HelpFiles HelpID="100" HelpFile="ListExp.Htm" Topic="Experiment List: Creating, opening, running, and importing expermiment files." />
+  <HelpFiles HelpID="200" HelpFile="Exp.Htm" Topic="Experiment:  Defining and running an experiment." />
+  <HelpFiles HelpID="300" HelpFile="Results.Htm" Topic="Results:  Viewing and analyzing experiment results." />
+  <HelpFiles HelpID="205" HelpFile="Exp_BI.Htm" Topic="Experiment: Base Information" />
+  <HelpFiles HelpID="210" HelpFile="Exp_IC.Htm" Topic="Experiment: Initial conditions" />
+  <HelpFiles HelpID="215" HelpFile="Exp_RC.Htm" Topic="Experiment: Rotation Components" />
+  <HelpFiles HelpID="800" HelpFile="TimeChart.Htm" Topic="Time Chart: Creating sequential time and day of year charts." />
+  <HelpFiles HelpID="50" HelpFile="OpenFile.Htm" Topic="Opening SALUS files" />
+  <HelpFiles HelpID="220" HelpFile="Exp_Planting.Htm" Topic="Experiment: Planting Information" />
+  <HelpFiles HelpID="221" HelpFile="Exp_Irrigation.Htm" Topic="Experiment: Irrigation Management" />
+  <HelpFiles HelpID="222" HelpFile="Exp_Fertilizers.Htm" Topic="Experiment: Fertilizer Management" />
+  <HelpFiles HelpID="223" HelpFile="Exp_Residue.Htm" Topic="Experiment: Residue Management" />
+  <HelpFiles HelpID="224" HelpFile="Exp_Tillage.Htm" Topic="Experiment: Tillage Management" />
+  <HelpFiles HelpID="225" HelpFile="Exp_Env.Htm" Topic="Experiment: Environmental Management" />
+  <HelpFiles HelpID="226" HelpFile="Exp_Harvest.Htm" Topic="Experiment: Harvest Information" />
+  <Soil_Bio_Kinetic_Par Element="C" ActInorg="0.1" ActIn2Lb="" SloInorg="0.001" ActOrg="0.015" SloFOMAb="0.007143" SloFOMBl="0.01" SloFOMHm="0.66" Labile="" LabInSol="" ActI2CO2="0.66" ActO2CO2="0.66" SloO2CO2="0.66" Rapd2CO2="0.66" Intr2CO2="0.66" Slow2CO2="0.66" Mlch2Sl="0.0001" />
+  <Soil_Bio_Kinetic_Par Element="N" ActInorg="" ActIn2Lb="" SloInorg="" ActOrg="" SloFOMAb="" SloFOMBl="" SloFOMHm="" Labile="0.1" LabInSol="0.9" ActI2CO2="" ActO2CO2="" SloO2CO2="" Rapd2CO2="" Intr2CO2="" Slow2CO2="" Mlch2Sl="" />
+  <Soil_Bio_Kinetic_Par Element="P" ActInorg="0.1" ActIn2Lb="0.05" SloInorg="0.001" ActOrg="" SloFOMAb="" SloFOMBl="" SloFOMHm="" Labile="0" LabInSol="0.02" ActI2CO2="" ActO2CO2="" SloO2CO2="" Rapd2CO2="" Intr2CO2="" Slow2CO2="" Mlch2Sl="" />
+  <Version_Control>
+    <Version Number="X_1.1">
+      <ReleaseDate>2014-03-20</ReleaseDate>
+      <Notes>Automatically converted from Access DB by salus_access2xml program.</Notes>
+    </Version>
+  </Version_Control>
+</GDB>

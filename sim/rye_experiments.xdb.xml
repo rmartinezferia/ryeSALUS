@@ -1,0 +1,1738 @@
+<XDB>
+  <Experiment ExpID="Ames_2002_RCC_L138B" Title="Kaspar et al. (2007)_Ames_2002_RCC_L138B" RelPath="Y" SDOY="253" SYear="2001" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2002_RCC_L138B_rye" Title="Ames_2002_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2002_RCC_L507" Title="Kaspar et al. (2007)_Ames_2002_RCC_L507" RelPath="Y" SDOY="253" SYear="2001" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2002_RCC_L507_rye" Title="Ames_2002_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2002_RCC_L55" Title="Kaspar et al. (2007)_Ames_2002_RCC_L55" RelPath="Y" SDOY="253" SYear="2001" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2002_RCC_L55_rye" Title="Ames_2002_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2003_RCC_L138B" Title="Kaspar et al. (2007)_Ames_2003_RCC_L138B" RelPath="Y" SDOY="243" SYear="2002" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2003_RCC_L138B_rye" Title="Ames_2003_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2003_RCC_L507" Title="Kaspar et al. (2007)_Ames_2003_RCC_L507" RelPath="Y" SDOY="243" SYear="2002" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2003_RCC_L507_rye" Title="Ames_2003_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2003_RCC_L55" Title="Kaspar et al. (2007)_Ames_2003_RCC_L55" RelPath="Y" SDOY="243" SYear="2002" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2003_RCC_L55_rye" Title="Ames_2003_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2004_RCC_L138B" Title="Kaspar et al. (2007)_Ames_2004_RCC_L138B" RelPath="Y" SDOY="265" SYear="2003" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2003">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2004_RCC_L138B_rye" Title="Ames_2004_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2003" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2004" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2004_RCC_L507" Title="Kaspar et al. (2007)_Ames_2004_RCC_L507" RelPath="Y" SDOY="265" SYear="2003" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2003">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2004_RCC_L507_rye" Title="Ames_2004_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2003" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2004" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2004_RCC_L55" Title="Kaspar et al. (2007)_Ames_2004_RCC_L55" RelPath="Y" SDOY="265" SYear="2003" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2003">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2004_RCC_L55_rye" Title="Ames_2004_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2003" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2004" DOY="107" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2005_RCC_L138B" Title="Kaspar et al. (2007)_Ames_2005_RCC_L138B" RelPath="Y" SDOY="270" SYear="2004" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2005_RCC_L138B_rye" Title="Ames_2005_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="280" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2005_RCC_L507" Title="Kaspar et al. (2007)_Ames_2005_RCC_L507" RelPath="Y" SDOY="270" SYear="2004" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2005_RCC_L507_rye" Title="Ames_2005_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="280" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2005_RCC_L55" Title="Kaspar et al. (2007)_Ames_2005_RCC_L55" RelPath="Y" SDOY="270" SYear="2004" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2005_RCC_L55_rye" Title="Ames_2005_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="280" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2006_RCC_L138B" Title="Kaspar et al. (2012)_Ames_2006_RCC_L138B" RelPath="Y" SDOY="263" SYear="2005" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2006_RCC_L138B_rye" Title="Ames_2006_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="273" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="111" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2006_RCC_L507" Title="Kaspar et al. (2012)_Ames_2006_RCC_L507" RelPath="Y" SDOY="263" SYear="2005" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2006_RCC_L507_rye" Title="Ames_2006_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="273" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="111" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2006_RCC_L55" Title="Kaspar et al. (2012)_Ames_2006_RCC_L55" RelPath="Y" SDOY="263" SYear="2005" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2006_RCC_L55_rye" Title="Ames_2006_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="273" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="111" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2007_RCC_L138B" Title="Kaspar et al. (2012)_Ames_2007_RCC_L138B" RelPath="Y" SDOY="287" SYear="2006" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2007_RCC_L138B_rye" Title="Ames_2007_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="297" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2007_RCC_L507" Title="Kaspar et al. (2012)_Ames_2007_RCC_L507" RelPath="Y" SDOY="287" SYear="2006" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2007_RCC_L507_rye" Title="Ames_2007_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="297" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2007_RCC_L55" Title="Kaspar et al. (2012)_Ames_2007_RCC_L55" RelPath="Y" SDOY="287" SYear="2006" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2007_RCC_L55_rye" Title="Ames_2007_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="297" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2008_RCC_L138B" Title="Kaspar et al. (2012)_Ames_2008_RCC_L138B" RelPath="Y" SDOY="261" SYear="2007" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2007">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2008_RCC_L138B_rye" Title="Ames_2008_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2007" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2008" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2008_RCC_L507" Title="Kaspar et al. (2012)_Ames_2008_RCC_L507" RelPath="Y" SDOY="261" SYear="2007" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2007">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2008_RCC_L507_rye" Title="Ames_2008_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2007" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2008" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2008_RCC_L55" Title="Kaspar et al. (2012)_Ames_2008_RCC_L55" RelPath="Y" SDOY="261" SYear="2007" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2007">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2008_RCC_L55_rye" Title="Ames_2008_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2007" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2008" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2009_RCC_L138B" Title="Kaspar et al. (2012)_Ames_2009_RCC_L138B" RelPath="Y" SDOY="293" SYear="2008" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2009_RCC_L138B_rye" Title="Ames_2009_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="303" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="141" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2009_RCC_L507" Title="Kaspar et al. (2012)_Ames_2009_RCC_L507" RelPath="Y" SDOY="293" SYear="2008" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2009_RCC_L507_rye" Title="Ames_2009_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="303" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="141" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2009_RCC_L55" Title="Kaspar et al. (2012)_Ames_2009_RCC_L55" RelPath="Y" SDOY="293" SYear="2008" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2009_RCC_L55_rye" Title="Ames_2009_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="303" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="141" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2010_RCC_L138B" Title="Kaspar et al. (2012)_Ames_2010_RCC_L138B" RelPath="Y" SDOY="261" SYear="2009" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2010_RCC_L138B_rye" Title="Ames_2010_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2010_RCC_L507" Title="Kaspar et al. (2012)_Ames_2010_RCC_L507" RelPath="Y" SDOY="261" SYear="2009" NYrs="1" SoilID="IA2922007" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2010_RCC_L507_rye" Title="Ames_2010_RCC_L507_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ames_2010_RCC_L55" Title="Kaspar et al. (2012)_Ames_2010_RCC_L55" RelPath="Y" SDOY="261" SYear="2009" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="42.0625N_93.6875W" Weatherfp="42.0625N_93.6875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ames_2010_RCC_L55_rye" Title="Ames_2010_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="271" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_1999_RCC_13A" Title="Ruffo and Bollero (2003)_Brownstown_1999_RCC_13A" RelPath="Y" SDOY="266" SYear="1998" NYrs="1" SoilID="IL173373" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_1999_RCC_13A_rye" Title="Brownstown_1999_RCC_13A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="276" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="118" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_1999_RCC_2A" Title="Ruffo and Bollero (2003)_Brownstown_1999_RCC_2A" RelPath="Y" SDOY="266" SYear="1998" NYrs="1" SoilID="IL173384" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_1999_RCC_2A_rye" Title="Brownstown_1999_RCC_2A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="276" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="118" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_1999_RCC_3A" Title="Ruffo and Bollero (2003)_Brownstown_1999_RCC_3A" RelPath="Y" SDOY="266" SYear="1998" NYrs="1" SoilID="IL173404" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_1999_RCC_3A_rye" Title="Brownstown_1999_RCC_3A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="276" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="118" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_2000_RCC_13A" Title="Ruffo and Bollero (2003)_Brownstown_2000_RCC_13A" RelPath="Y" SDOY="265" SYear="1999" NYrs="1" SoilID="IL173373" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_2000_RCC_13A_rye" Title="Brownstown_2000_RCC_13A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_2000_RCC_2A" Title="Ruffo and Bollero (2003)_Brownstown_2000_RCC_2A" RelPath="Y" SDOY="265" SYear="1999" NYrs="1" SoilID="IL173384" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_2000_RCC_2A_rye" Title="Brownstown_2000_RCC_2A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Brownstown_2000_RCC_3A" Title="Ruffo and Bollero (2003)_Brownstown_2000_RCC_3A" RelPath="Y" SDOY="265" SYear="1999" NYrs="1" SoilID="IL173404" Soilfp="IL.sdb.xml" StationID="38.9375N_88.9375W" Weatherfp="38.9375N_88.9375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Brownstown_2000_RCC_3A_rye" Title="Brownstown_2000_RCC_3A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2013_RCC_50058" Title="Cornelius and Bradley (2017)_Columbia_2013_RCC_50058" RelPath="Y" SDOY="245" SYear="2012" NYrs="1" SoilID="MO2532752" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2013_RCC_50058_rye" Title="Columbia_2013_RCC_50058_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2013_RCC_50059" Title="Cornelius and Bradley (2017)_Columbia_2013_RCC_50059" RelPath="Y" SDOY="245" SYear="2012" NYrs="1" SoilID="MO2532763" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2013_RCC_50059_rye" Title="Columbia_2013_RCC_50059_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2013_RCC_60022" Title="Cornelius and Bradley (2017)_Columbia_2013_RCC_60022" RelPath="Y" SDOY="245" SYear="2012" NYrs="1" SoilID="MO2532934" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2013_RCC_60022_rye" Title="Columbia_2013_RCC_60022_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="115" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2014_RCC_50058" Title="Cornelius and Bradley (2017)_Columbia_2014_RCC_50058" RelPath="Y" SDOY="245" SYear="2013" NYrs="1" SoilID="MO2532752" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2013">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2014_RCC_50058_rye" Title="Columbia_2014_RCC_50058_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2013" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2014" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2014_RCC_50059" Title="Cornelius and Bradley (2017)_Columbia_2014_RCC_50059" RelPath="Y" SDOY="245" SYear="2013" NYrs="1" SoilID="MO2532763" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2013">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2014_RCC_50059_rye" Title="Columbia_2014_RCC_50059_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2013" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2014" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2014_RCC_60022" Title="Cornelius and Bradley (2017)_Columbia_2014_RCC_60022" RelPath="Y" SDOY="245" SYear="2013" NYrs="1" SoilID="MO2532934" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2013">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2014_RCC_60022_rye" Title="Columbia_2014_RCC_60022_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2013" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2014" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2015_RCC_50058" Title="Cornelius and Bradley (2017)_Columbia_2015_RCC_50058" RelPath="Y" SDOY="243" SYear="2014" NYrs="1" SoilID="MO2532752" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2014">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2015_RCC_50058_rye" Title="Columbia_2015_RCC_50058_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2014" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2015" DOY="113" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2015_RCC_50059" Title="Cornelius and Bradley (2017)_Columbia_2015_RCC_50059" RelPath="Y" SDOY="243" SYear="2014" NYrs="1" SoilID="MO2532763" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2014">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2015_RCC_50059_rye" Title="Columbia_2015_RCC_50059_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2014" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2015" DOY="113" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Columbia_2015_RCC_60022" Title="Cornelius and Bradley (2017)_Columbia_2015_RCC_60022" RelPath="Y" SDOY="243" SYear="2014" NYrs="1" SoilID="MO2532934" Soilfp="MO.sdb.xml" StationID="38.9375N_92.1875W" Weatherfp="38.9375N_92.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2014">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Columbia_2015_RCC_60022_rye" Title="Columbia_2015_RCC_60022_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2014" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2015" DOY="113" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ithaca_1995_RCC_8110" Title="Williams et al. (1998)_Ithaca_1995_RCC_8110" RelPath="Y" SDOY="253" SYear="1994" NYrs="1" SoilID="NE1691438" Soilfp="NE.sdb.xml" StationID="41.1875N_96.4375W" Weatherfp="41.1875N_96.4375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1994">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ithaca_1995_RCC_8110_rye" Title="Ithaca_1995_RCC_8110_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1994" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1995" DOY="157" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ithaca_1995_RCC_8145" Title="Williams et al. (1998)_Ithaca_1995_RCC_8145" RelPath="Y" SDOY="253" SYear="1994" NYrs="1" SoilID="NE1691444" Soilfp="NE.sdb.xml" StationID="41.1875N_96.4375W" Weatherfp="41.1875N_96.4375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1994">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ithaca_1995_RCC_8145_rye" Title="Ithaca_1995_RCC_8145_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1994" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1995" DOY="157" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ithaca_1996_RCC_8110" Title="Williams et al. (1998)_Ithaca_1996_RCC_8110" RelPath="Y" SDOY="253" SYear="1995" NYrs="1" SoilID="NE1691438" Soilfp="NE.sdb.xml" StationID="41.1875N_96.4375W" Weatherfp="41.1875N_96.4375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1995">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ithaca_1996_RCC_8110_rye" Title="Ithaca_1996_RCC_8110_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1995" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1996" DOY="144" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Ithaca_1996_RCC_8145" Title="Williams et al. (1998)_Ithaca_1996_RCC_8145" RelPath="Y" SDOY="253" SYear="1995" NYrs="1" SoilID="NE1691444" Soilfp="NE.sdb.xml" StationID="41.1875N_96.4375W" Weatherfp="41.1875N_96.4375W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1995">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Ithaca_1996_RCC_8145_rye" Title="Ithaca_1996_RCC_8145_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1995" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1996" DOY="144" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2009_RCC_L107" Title="Martinez-Feria et al. (2016)_Kelley_2009_RCC_L107" RelPath="Y" SDOY="285" SYear="2008" NYrs="1" SoilID="IA2835012" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2009_RCC_L107_rye" Title="Kelley_2009_RCC_L107_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="295" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2009_RCC_L138B" Title="Martinez-Feria et al. (2016)_Kelley_2009_RCC_L138B" RelPath="Y" SDOY="285" SYear="2008" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2009_RCC_L138B_rye" Title="Kelley_2009_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="295" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2009_RCC_L55" Title="Martinez-Feria et al. (2016)_Kelley_2009_RCC_L55" RelPath="Y" SDOY="285" SYear="2008" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2008">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2009_RCC_L55_rye" Title="Kelley_2009_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2008" DOY="295" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2009" DOY="126" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2010_RCC_L107" Title="Martinez-Feria et al. (2016)_Kelley_2010_RCC_L107" RelPath="Y" SDOY="300" SYear="2009" NYrs="1" SoilID="IA2835012" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2010_RCC_L107_rye" Title="Kelley_2010_RCC_L107_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="310" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2010_RCC_L138B" Title="Martinez-Feria et al. (2016)_Kelley_2010_RCC_L138B" RelPath="Y" SDOY="300" SYear="2009" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2010_RCC_L138B_rye" Title="Kelley_2010_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="310" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2010_RCC_L55" Title="Martinez-Feria et al. (2016)_Kelley_2010_RCC_L55" RelPath="Y" SDOY="300" SYear="2009" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2010_RCC_L55_rye" Title="Kelley_2010_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="310" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2011_RCC_L107" Title="Martinez-Feria et al. (2016)_Kelley_2011_RCC_L107" RelPath="Y" SDOY="267" SYear="2010" NYrs="1" SoilID="IA2835012" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2010">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2011_RCC_L107_rye" Title="Kelley_2011_RCC_L107_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2010" DOY="277" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2011" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2011_RCC_L138B" Title="Martinez-Feria et al. (2016)_Kelley_2011_RCC_L138B" RelPath="Y" SDOY="267" SYear="2010" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2010">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2011_RCC_L138B_rye" Title="Kelley_2011_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2010" DOY="277" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2011" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2011_RCC_L55" Title="Martinez-Feria et al. (2016)_Kelley_2011_RCC_L55" RelPath="Y" SDOY="267" SYear="2010" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2010">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2011_RCC_L55_rye" Title="Kelley_2011_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2010" DOY="277" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2011" DOY="130" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2012_RCC_L107" Title="Martinez-Feria et al. (2016)_Kelley_2012_RCC_L107" RelPath="Y" SDOY="273" SYear="2011" NYrs="1" SoilID="IA2835012" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2011">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2012_RCC_L107_rye" Title="Kelley_2012_RCC_L107_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2011" DOY="283" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2012" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2012_RCC_L138B" Title="Martinez-Feria et al. (2016)_Kelley_2012_RCC_L138B" RelPath="Y" SDOY="273" SYear="2011" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2011">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2012_RCC_L138B_rye" Title="Kelley_2012_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2011" DOY="283" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2012" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2012_RCC_L55" Title="Martinez-Feria et al. (2016)_Kelley_2012_RCC_L55" RelPath="Y" SDOY="273" SYear="2011" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2011">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2012_RCC_L55_rye" Title="Kelley_2012_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2011" DOY="283" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2012" DOY="109" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2013_RCC_L107" Title="Martinez-Feria et al. (2016)_Kelley_2013_RCC_L107" RelPath="Y" SDOY="279" SYear="2012" NYrs="1" SoilID="IA2835012" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2013_RCC_L107_rye" Title="Kelley_2013_RCC_L107_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="289" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2013_RCC_L138B" Title="Martinez-Feria et al. (2016)_Kelley_2013_RCC_L138B" RelPath="Y" SDOY="279" SYear="2012" NYrs="1" SoilID="IA2765522" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2013_RCC_L138B_rye" Title="Kelley_2013_RCC_L138B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="289" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Kelley_2013_RCC_L55" Title="Martinez-Feria et al. (2016)_Kelley_2013_RCC_L55" RelPath="Y" SDOY="279" SYear="2012" NYrs="1" SoilID="IA2834849" Soilfp="IA.sdb.xml" StationID="41.9375N_93.8125W" Weatherfp="41.9375N_93.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2012">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Kelley_2013_RCC_L55_rye" Title="Kelley_2013_RCC_L55_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2012" DOY="289" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2013" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_1999_RCC_421B" Title="Strock et al. (2004)_Lamberton_1999_RCC_421B" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="MN2374037" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_1999_RCC_421B_rye" Title="Lamberton_1999_RCC_421B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_1999_RCC_L201A" Title="Strock et al. (2004)_Lamberton_1999_RCC_L201A" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="MN2374074" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_1999_RCC_L201A_rye" Title="Lamberton_1999_RCC_L201A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_1999_RCC_L83A" Title="Strock et al. (2004)_Lamberton_1999_RCC_L83A" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="MN2374071" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_1999_RCC_L83A_rye" Title="Lamberton_1999_RCC_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="120" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2000_RCC_421B" Title="Strock et al. (2004)_Lamberton_2000_RCC_421B" RelPath="Y" SDOY="262" SYear="1999" NYrs="1" SoilID="MN2374037" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2000_RCC_421B_rye" Title="Lamberton_2000_RCC_421B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="272" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="102" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2000_RCC_L201A" Title="Strock et al. (2004)_Lamberton_2000_RCC_L201A" RelPath="Y" SDOY="262" SYear="1999" NYrs="1" SoilID="MN2374074" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2000_RCC_L201A_rye" Title="Lamberton_2000_RCC_L201A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="272" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="102" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2000_RCC_L83A" Title="Strock et al. (2004)_Lamberton_2000_RCC_L83A" RelPath="Y" SDOY="262" SYear="1999" NYrs="1" SoilID="MN2374071" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2000_RCC_L83A_rye" Title="Lamberton_2000_RCC_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="272" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="102" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2001_RCC_421B" Title="Strock et al. (2004)_Lamberton_2001_RCC_421B" RelPath="Y" SDOY="268" SYear="2000" NYrs="1" SoilID="MN2374037" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2001_RCC_421B_rye" Title="Lamberton_2001_RCC_421B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="136" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2001_RCC_L201A" Title="Strock et al. (2004)_Lamberton_2001_RCC_L201A" RelPath="Y" SDOY="268" SYear="2000" NYrs="1" SoilID="MN2374074" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2001_RCC_L201A_rye" Title="Lamberton_2001_RCC_L201A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="136" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Lamberton_2001_RCC_L83A" Title="Strock et al. (2004)_Lamberton_2001_RCC_L83A" RelPath="Y" SDOY="268" SYear="2000" NYrs="1" SoilID="MN2374071" Soilfp="MN.sdb.xml" StationID="44.1875N_95.3125W" Weatherfp="44.1875N_95.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Lamberton_2001_RCC_L83A_rye" Title="Lamberton_2001_RCC_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="136" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Moberly_2014_RCC_50012" Title="Cornelius and Bradley (2017)_Moberly_2014_RCC_50012" RelPath="Y" SDOY="245" SYear="2013" NYrs="1" SoilID="MO2532632" Soilfp="MO.sdb.xml" StationID="39.3125N_92.3125W" Weatherfp="39.3125N_92.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2013">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Moberly_2014_RCC_50012_rye" Title="Moberly_2014_RCC_50012_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2013" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2014" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Moberly_2014_RCC_50058" Title="Cornelius and Bradley (2017)_Moberly_2014_RCC_50058" RelPath="Y" SDOY="245" SYear="2013" NYrs="1" SoilID="MO2532756" Soilfp="MO.sdb.xml" StationID="39.3125N_92.3125W" Weatherfp="39.3125N_92.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2013">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Moberly_2014_RCC_50058_rye" Title="Moberly_2014_RCC_50058_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2013" DOY="255" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2014" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Moberly_2015_RCC_50012" Title="Cornelius and Bradley (2017)_Moberly_2015_RCC_50012" RelPath="Y" SDOY="243" SYear="2014" NYrs="1" SoilID="MO2532632" Soilfp="MO.sdb.xml" StationID="39.3125N_92.3125W" Weatherfp="39.3125N_92.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2014">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Moberly_2015_RCC_50012_rye" Title="Moberly_2015_RCC_50012_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2014" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2015" DOY="113" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Moberly_2015_RCC_50058" Title="Cornelius and Bradley (2017)_Moberly_2015_RCC_50058" RelPath="Y" SDOY="243" SYear="2014" NYrs="1" SoilID="MO2532756" Soilfp="MO.sdb.xml" StationID="39.3125N_92.3125W" Weatherfp="39.3125N_92.3125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2014">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Moberly_2015_RCC_50058_rye" Title="Moberly_2015_RCC_50058_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2014" DOY="253" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2015" DOY="113" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD1_8815" Title="Werle et al. (2017)_NorthPlatte_2017_PD1_8815" RelPath="Y" SDOY="254" SYear="2016" NYrs="1" SoilID="NE1699152" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD1_8815_rye" Title="NorthPlatte_2017_PD1_8815_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="264" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD1_8826" Title="Werle et al. (2017)_NorthPlatte_2017_PD1_8826" RelPath="Y" SDOY="254" SYear="2016" NYrs="1" SoilID="NE1699156" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD1_8826_rye" Title="NorthPlatte_2017_PD1_8826_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="264" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD1_8869" Title="Werle et al. (2017)_NorthPlatte_2017_PD1_8869" RelPath="Y" SDOY="254" SYear="2016" NYrs="1" SoilID="NE1699190" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD1_8869_rye" Title="NorthPlatte_2017_PD1_8869_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="264" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD2_8815" Title="Werle et al. (2017)_NorthPlatte_2017_PD2_8815" RelPath="Y" SDOY="281" SYear="2016" NYrs="1" SoilID="NE1699152" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD2_8815_rye" Title="NorthPlatte_2017_PD2_8815_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD2_8826" Title="Werle et al. (2017)_NorthPlatte_2017_PD2_8826" RelPath="Y" SDOY="281" SYear="2016" NYrs="1" SoilID="NE1699156" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD2_8826_rye" Title="NorthPlatte_2017_PD2_8826_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="NorthPlatte_2017_PD2_8869" Title="Werle et al. (2017)_NorthPlatte_2017_PD2_8869" RelPath="Y" SDOY="281" SYear="2016" NYrs="1" SoilID="NE1699190" Soilfp="NE.sdb.xml" StationID="41.0625N_100.8125W" Weatherfp="41.0625N_100.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2016">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="NorthPlatte_2017_PD2_8869_rye" Title="NorthPlatte_2017_PD2_8869_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2016" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2017" DOY="108" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2002_TD1_411A" Title="De Bruin et al. (2005)_Rosemont_2002_TD1_411A" RelPath="Y" SDOY="288" SYear="2001" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2002_TD1_411A_rye" Title="Rosemont_2002_TD1_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="298" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="121" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2002_TD2_411A" Title="De Bruin et al. (2005)_Rosemont_2002_TD2_411A" RelPath="Y" SDOY="288" SYear="2001" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2002_TD2_411A_rye" Title="Rosemont_2002_TD2_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="298" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="128" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2002_TD3_411A" Title="De Bruin et al. (2005)_Rosemont_2002_TD3_411A" RelPath="Y" SDOY="288" SYear="2001" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2002_TD3_411A_rye" Title="Rosemont_2002_TD3_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="298" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="135" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2002_TD4_411A" Title="De Bruin et al. (2005)_Rosemont_2002_TD4_411A" RelPath="Y" SDOY="288" SYear="2001" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2002_TD4_411A_rye" Title="Rosemont_2002_TD4_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="298" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="142" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2003_TD1_411A" Title="De Bruin et al. (2005)_Rosemont_2003_TD1_411A" RelPath="Y" SDOY="295" SYear="2002" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2003_TD1_411A_rye" Title="Rosemont_2003_TD1_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="305" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="133" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2003_TD2_411A" Title="De Bruin et al. (2005)_Rosemont_2003_TD2_411A" RelPath="Y" SDOY="295" SYear="2002" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2003_TD2_411A_rye" Title="Rosemont_2003_TD2_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="305" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="143" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2003_TD3_411A" Title="De Bruin et al. (2005)_Rosemont_2003_TD3_411A" RelPath="Y" SDOY="295" SYear="2002" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2003_TD3_411A_rye" Title="Rosemont_2003_TD3_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="305" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="153" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Rosemont_2003_TD4_411A" Title="De Bruin et al. (2005)_Rosemont_2003_TD4_411A" RelPath="Y" SDOY="295" SYear="2002" NYrs="1" SoilID="MN396855" Soilfp="MN.sdb.xml" StationID="44.6875N_93.0625W" Weatherfp="44.6875N_93.0625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Rosemont_2003_TD4_411A_rye" Title="Rosemont_2003_TD4_411A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="305" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="168" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="StevensCounty_2010_RCC_J110B" Title="Forcella (2013)_StevensCounty_2010_RCC_J110B" RelPath="Y" SDOY="235" SYear="2009" NYrs="1" SoilID="MN3182598" Soilfp="extras.sdb.xml" StationID="45.6875N_95.8125W" Weatherfp="45.6875N_95.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2009">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="StevensCounty_2010_RCC_J110B_rye" Title="StevensCounty_2010_RCC_J110B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2009" DOY="245" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2010" DOY="160" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="StevensCounty_2011_RCC_J110B" Title="Forcella (2013)_StevensCounty_2011_RCC_J110B" RelPath="Y" SDOY="253" SYear="2010" NYrs="1" SoilID="MN3182598" Soilfp="extras.sdb.xml" StationID="45.6875N_95.8125W" Weatherfp="45.6875N_95.8125W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2010">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="StevensCounty_2011_RCC_J110B_rye" Title="StevensCounty_2011_RCC_J110B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2010" DOY="263" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2011" DOY="165" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="StPaul_2001_RCC_298B" Title="Feyerisen et al. (2006)_StPaul_2001_RCC_298B" RelPath="Y" SDOY="252" SYear="2000" NYrs="1" SoilID="MN1677226" Soilfp="MN.sdb.xml" StationID="44.9375N_93.1875W" Weatherfp="44.9375N_93.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="StPaul_2001_RCC_298B_rye" Title="StPaul_2001_RCC_298B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="262" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="145" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="StPaul_2001_RCC_411" Title="Feyerisen et al. (2006)_StPaul_2001_RCC_411" RelPath="Y" SDOY="252" SYear="2000" NYrs="1" SoilID="MN1677243" Soilfp="MN.sdb.xml" StationID="44.9375N_93.1875W" Weatherfp="44.9375N_93.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="StPaul_2001_RCC_411_rye" Title="StPaul_2001_RCC_411_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="262" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="145" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="StPaul_2001_RCC_411B" Title="Feyerisen et al. (2006)_StPaul_2001_RCC_411B" RelPath="Y" SDOY="252" SYear="2000" NYrs="1" SoilID="MN1677244" Soilfp="MN.sdb.xml" StationID="44.9375N_93.1875W" Weatherfp="44.9375N_93.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2000">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="StPaul_2001_RCC_411B_rye" Title="StPaul_2001_RCC_411B_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2000" DOY="262" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2001" DOY="145" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_1999_RCC_152A" Title="Ruffo and Bollero (2003)_Urbana_1999_RCC_152A" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="IL242963" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_1999_RCC_152A_rye" Title="Urbana_1999_RCC_152A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_1999_RCC_154A" Title="Ruffo and Bollero (2003)_Urbana_1999_RCC_154A" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="IL242965" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_1999_RCC_154A_rye" Title="Urbana_1999_RCC_154A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_1999_RCC_198A" Title="Ruffo and Bollero (2003)_Urbana_1999_RCC_198A" RelPath="Y" SDOY="264" SYear="1998" NYrs="1" SoilID="IL242997" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1998">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_1999_RCC_198A_rye" Title="Urbana_1999_RCC_198A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1998" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="1999" DOY="122" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2000_RCC_152A" Title="Ruffo and Bollero (2003)_Urbana_2000_RCC_152A" RelPath="Y" SDOY="268" SYear="1999" NYrs="1" SoilID="IL242963" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2000_RCC_152A_rye" Title="Urbana_2000_RCC_152A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2000_RCC_154A" Title="Ruffo and Bollero (2003)_Urbana_2000_RCC_154A" RelPath="Y" SDOY="268" SYear="1999" NYrs="1" SoilID="IL242965" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2000_RCC_154A_rye" Title="Urbana_2000_RCC_154A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2000_RCC_198A" Title="Ruffo and Bollero (2003)_Urbana_2000_RCC_198A" RelPath="Y" SDOY="268" SYear="1999" NYrs="1" SoilID="IL242997" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="1999">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2000_RCC_198A_rye" Title="Urbana_2000_RCC_198A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="1999" DOY="278" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2000" DOY="125" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2005_RCC_152A" Title="Davis (2010)_Urbana_2005_RCC_152A" RelPath="Y" SDOY="265" SYear="2004" NYrs="1" SoilID="IL242963" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2005_RCC_152A_rye" Title="Urbana_2005_RCC_152A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="133" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2005_RCC_154A" Title="Davis (2010)_Urbana_2005_RCC_154A" RelPath="Y" SDOY="265" SYear="2004" NYrs="1" SoilID="IL242965" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2005_RCC_154A_rye" Title="Urbana_2005_RCC_154A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="133" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2005_RCC_198A" Title="Davis (2010)_Urbana_2005_RCC_198A" RelPath="Y" SDOY="265" SYear="2004" NYrs="1" SoilID="IL242997" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2004">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2005_RCC_198A_rye" Title="Urbana_2005_RCC_198A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2004" DOY="275" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2005" DOY="133" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2006_RCC_152A" Title="Davis (2010)_Urbana_2006_RCC_152A" RelPath="Y" SDOY="264" SYear="2005" NYrs="1" SoilID="IL242963" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2006_RCC_152A_rye" Title="Urbana_2006_RCC_152A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="132" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2006_RCC_154A" Title="Davis (2010)_Urbana_2006_RCC_154A" RelPath="Y" SDOY="264" SYear="2005" NYrs="1" SoilID="IL242965" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2006_RCC_154A_rye" Title="Urbana_2006_RCC_154A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="132" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2006_RCC_198A" Title="Davis (2010)_Urbana_2006_RCC_198A" RelPath="Y" SDOY="264" SYear="2005" NYrs="1" SoilID="IL242997" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2005">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2006_RCC_198A_rye" Title="Urbana_2006_RCC_198A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2005" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2006" DOY="132" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2007_RCC_152A" Title="Davis (2010)_Urbana_2007_RCC_152A" RelPath="Y" SDOY="264" SYear="2006" NYrs="1" SoilID="IL242963" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2007_RCC_152A_rye" Title="Urbana_2007_RCC_152A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2007_RCC_154A" Title="Davis (2010)_Urbana_2007_RCC_154A" RelPath="Y" SDOY="264" SYear="2006" NYrs="1" SoilID="IL242965" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2007_RCC_154A_rye" Title="Urbana_2007_RCC_154A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Urbana_2007_RCC_198A" Title="Davis (2010)_Urbana_2007_RCC_198A" RelPath="Y" SDOY="264" SYear="2006" NYrs="1" SoilID="IL242997" Soilfp="IL.sdb.xml" StationID="40.0625N_88.1875W" Weatherfp="40.0625N_88.1875W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2006">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Urbana_2007_RCC_198A_rye" Title="Urbana_2007_RCC_198A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2006" DOY="274" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2007" DOY="131" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD1_L83A" Title="De Bruin et al. (2005)_Waseca_2002_TD1_L83A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD1_L83A_rye" Title="Waseca_2002_TD1_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="121" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD1_L85A" Title="De Bruin et al. (2005)_Waseca_2002_TD1_L85A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD1_L85A_rye" Title="Waseca_2002_TD1_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="121" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD2_L83A" Title="De Bruin et al. (2005)_Waseca_2002_TD2_L83A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD2_L83A_rye" Title="Waseca_2002_TD2_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="128" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD2_L85A" Title="De Bruin et al. (2005)_Waseca_2002_TD2_L85A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD2_L85A_rye" Title="Waseca_2002_TD2_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="128" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD3_L83A" Title="De Bruin et al. (2005)_Waseca_2002_TD3_L83A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD3_L83A_rye" Title="Waseca_2002_TD3_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="140" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD3_L85A" Title="De Bruin et al. (2005)_Waseca_2002_TD3_L85A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD3_L85A_rye" Title="Waseca_2002_TD3_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="140" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD4_L83A" Title="De Bruin et al. (2005)_Waseca_2002_TD4_L83A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD4_L83A_rye" Title="Waseca_2002_TD4_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="148" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2002_TD4_L85A" Title="De Bruin et al. (2005)_Waseca_2002_TD4_L85A" RelPath="Y" SDOY="281" SYear="2001" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2001">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2002_TD4_L85A_rye" Title="Waseca_2002_TD4_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2001" DOY="291" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2002" DOY="148" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD1_L83A" Title="De Bruin et al. (2005)_Waseca_2003_TD1_L83A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD1_L83A_rye" Title="Waseca_2003_TD1_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="121" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD1_L85A" Title="De Bruin et al. (2005)_Waseca_2003_TD1_L85A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD1_L85A_rye" Title="Waseca_2003_TD1_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="121" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD2_L83A" Title="De Bruin et al. (2005)_Waseca_2003_TD2_L83A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD2_L83A_rye" Title="Waseca_2003_TD2_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="127" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD2_L85A" Title="De Bruin et al. (2005)_Waseca_2003_TD2_L85A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD2_L85A_rye" Title="Waseca_2003_TD2_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="127" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD3_L83A" Title="De Bruin et al. (2005)_Waseca_2003_TD3_L83A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD3_L83A_rye" Title="Waseca_2003_TD3_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="134" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD3_L85A" Title="De Bruin et al. (2005)_Waseca_2003_TD3_L85A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD3_L85A_rye" Title="Waseca_2003_TD3_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="134" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD4_L83A" Title="De Bruin et al. (2005)_Waseca_2003_TD4_L83A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN2835046" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD4_L83A_rye" Title="Waseca_2003_TD4_L83A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="140" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+  <Experiment ExpID="Waseca_2003_TD4_L85A" Title="De Bruin et al. (2005)_Waseca_2003_TD4_L85A" RelPath="Y" SDOY="274" SYear="2002" NYrs="1" SoilID="MN455434" Soilfp="MN.sdb.xml" StationID="44.0625N_93.5625W" Weatherfp="44.0625N_93.5625W.wdb.xml" Cropfp="crops.cdb.xml">
+    <Mgt_InitialCond DOY="1" Year="2002">
+      <Layer DLayrI="30" INinorg="3" SWInit="0.2"/>
+      <Layer DLayrI="120" INinorg="2" SWInit="0.2"/>
+      <Layer DLayrI="200" INinorg="1" SWInit="0.2"/>
+      <Layer DLayrI="230" INinorg="0" SWInit="0.2"/>
+    </Mgt_InitialCond>
+    <Rotation_Components>
+      <Component OrderNum="1" RcID="Waseca_2003_TD4_L85A_rye" Title="Waseca_2003_TD4_L85A_rye" IPltI="r" IIrrI="r" IferI="r" IResI="r" ITilI="r" IMS_HarI="R" IHarI="r" IEnvI="n">
+        <Mgt_Planting Year="2002" DOY="284" Ppop="300" CropMod="S" CultivarID="" RowSpc="20" SDepth="1" SpeciesID="RY"/>
+        <Mgt_Harvest_App Year="2003" DOY="140" DAP="" HStg="" HCom="H" HSiz="A" HBPc="99" HBmin="0" HPc="99" HKnDnPc="0"/>
+      </Component>
+    </Rotation_Components>
+  </Experiment>
+</XDB>
