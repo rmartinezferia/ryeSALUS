@@ -12,7 +12,7 @@ for(i in 1:length(rawdata)){
   
   term <- readRDS(file.path("regionalSim",rawdata[i])) %>%
     as_tibble() %>%
-    filter(CWAD >= 4000) %>%
+    filter(CWAD >= 5000) %>%
     group_by(ExpID) %>%
     summarise(DOY = min(DOY)) %>%
     separate(ExpID,c("lat","long","year","dop"),sep = "_") %>%
@@ -90,7 +90,7 @@ map_data("county")%>%
   scale_fill_viridis_c(direction = -1, breaks = c(100,120,140,160,180), labels = c("<Apr-10","May-1","May-20","Jun-10",">Jun-30")) + 
   coord_equal(ratio = 1.3,
               expand = T) + 
-  labs(y = "", x = "", fill = "Earliest termination date with rye biomass > 4.0 Mg/ha") +
+  labs(y = "", x = "", fill = "Earliest termination date with rye biomass > 5.0 Mg/ha") +
   ggthemes::theme_few() + 
   theme(legend.position = "top",
         panel.background = element_rect(fill = "white")) +
@@ -115,7 +115,7 @@ map_data("county")%>%
   scale_fill_viridis_c(direction = -1, breaks = c(100,120,140,160,180), labels = c("<Apr-10","May-1","May-20","Jun-10",">Jun-30")) + 
   coord_equal(ratio = 1.3,
               expand = T) + 
-  labs(y = "Latitude", x = "Longitude", fill = "Earliest termination date with rye biomass > 4.0 Mg/ha") +
+  labs(y = "Latitude", x = "Longitude", fill = "Earliest termination date with rye biomass > 5.0 Mg/ha") +
   ggthemes::theme_few() + 
   theme(legend.position = "top",
         panel.background = element_rect(fill = "white")) +
