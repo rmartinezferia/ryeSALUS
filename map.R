@@ -72,6 +72,25 @@ term_county %>%
   spread(dop,DOY) %>%
   write.csv("figures/mapTable.csv", row.names = F)
 
+term_county %>%
+  filter(prob == "80%") %>%
+  mutate(Jul1 = DOY <= 182,
+         Jun1 = DOY <= 152,
+         May1 = DOY <= 121) %>%
+  group_by(dop) %>%
+  summarise_at(vars(Jul1:May1), function(x) round(100*sum(x)/n(),1))
+  
+  group_by(region,dop,prob) %>%
+  summarise(DOY = as.character(as.Date(paste(2019,mean(DOY)),"%Y %j"),"%b-%d")) %>%
+  ungroup() %>%
+  transmute(region= toupper(region),
+            dop = paste0(dop,"_",prob),
+            DOY) %>%
+  spread(dop,DOY) %>%
+  write.csv("figures/mapTable.csv", row.names = F)
+
+
+
 state_poly <- map_data("state") %>% 
   filter(region %in% c("north dakota","south dakota","nebraska","kansas",
                        "minnesota","iowa","wisconsin","missouri","illinois","indiana","michigan","ohio"))
